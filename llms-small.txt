@@ -4,7 +4,7 @@
 
 > Build, set up and use your Svalboard.
 
-[Start here](/start/quickstart/)Set up a new board. [Hardware](/hardware/)Fit, typing and pointing modules. [Build guide](/build/)Build a kit, step by step. [Firmware](/firmware/)Flash Svalboard QMK, recover a board. [Keybard](/keybard/)Change your layout in the browser. [Reference](/reference/releases/)Releases, USB IDs and links.
+[![](/svdocs-r7q2m/_astro/cad-thumb-cluster-keys-shaded-light.DRyMLY9h_1P93G8.webp)![](/svdocs-r7q2m/_astro/cad-thumb-cluster-keys-shaded-dark.Drw6YBLA_Z4kMLK.webp)Start hereSet up a new board.](/start/quickstart/)[![](/svdocs-r7q2m/_astro/kit-hardware-photo.CEjfYeSS_1xOtAB.webp)Build guideBuild a kit, step by step.](/build/)[![](/svdocs-r7q2m/_astro/cad-finger-cluster-keys-shaded-light.Dr3rwVlo_Kw4pt.webp)![](/svdocs-r7q2m/_astro/cad-finger-cluster-keys-shaded-dark.D-ibojLQ_lGq6u.webp)HardwareFit, typing and pointing modules.](/hardware/)[![](/svdocs-r7q2m/_astro/cad-ports-reset-shaded-light.DQuNDayU_1qHsDq.webp)![](/svdocs-r7q2m/_astro/cad-ports-reset-shaded-dark.OSxShWLl_2f1xu1.webp)FirmwareFlash Svalboard QMK, recover a board.](/firmware/)[![](/svdocs-r7q2m/_astro/keybard-mouse-layer-light.D39s8l3D_Z1Whtvp.webp)![](/svdocs-r7q2m/_astro/keybard-mouse-layer-dark.BEJ_jNCP_ZII8e6.webp)KeybardChange your layout in the browser.](/keybard/)[![](/svdocs-r7q2m/_astro/cad-parts-one-half-shaded-light.BHnCIszZ_ETnhX.webp)![](/svdocs-r7q2m/_astro/cad-parts-one-half-shaded-dark.Ca8EOUlI_Z2qV7Cx.webp)ReferenceReleases, USB IDs and links.](/reference/releases/)
 
 # Build guide
 
