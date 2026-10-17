@@ -30,7 +30,7 @@ What comes in the kit
 
 This guide covers building a Svalboard from a self-print kit. It also helps with repairs and part swaps on a finished board.
 
-Help us improve it: send comments on the [Svalboard Discord](https://www.svalboard.com/discord).
+Help us improve it: [open an issue on GitHub](https://github.com/svalboard/docs/issues/new?title=Build%20guide%3A%20), or send comments on the [Svalboard Discord](https://www.svalboard.com/discord).
 
 * Before you print, pick your key size. See [Sizing before you build](/build/#sizing-before-you-build).
 * To configure your Svalboard after the build, use [Keybard](/keybard/) in Chrome or Edge: <https://keybard.svalboard.com>
